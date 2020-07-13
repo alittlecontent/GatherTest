@@ -1,0 +1,12 @@
+{
+  "name": "GatherDir",
+  "displayName": "GatherDir",
+  "expo": {
+    "name": "GatherDir",
+    "slug": "GatherDir",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
